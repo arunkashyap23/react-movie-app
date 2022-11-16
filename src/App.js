@@ -60,7 +60,7 @@ const MovieListContainer = styled.div`
   justify-content: space-evenly; ;
 `;
 
-const Placeholder = styled.img``;
+// const Placeholder = styled.img``;
 
 function App() {
   const [searchQuery, setSearchQuery] = useState("");
